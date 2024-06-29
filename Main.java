@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * Author: Hanson Hao
+ * Email: hhao23@wisc.edu
+ * CS Account: hansonh
  */
 import java.util.*;
 
